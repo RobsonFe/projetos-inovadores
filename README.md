@@ -17,6 +17,10 @@ Este projeto tem como objetivo desenvolver um bot que extrai dados de precatóri
 - Salva os resultados em planilhas Excel.
 - Gera logs completos das ações realizadas, permitindo acompanhamento das operações.
 
+## Video do Projeto:
+
+[![Assista ao vídeo do projeto](https://i.imgur.com/v2zFWhf.png)](https://youtu.be/btGx-XWLFQw)
+
 ## Instalação
 
 ### Pré-requisitos
